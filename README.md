@@ -5,9 +5,10 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Framework-Flutter-blue?logo=flutter" alt="Framework: Flutter">
     <img src="https://img.shields.io/badge/OS-Android%20%7C%20iOS-green" alt="OS: Android | iOS">
-    <img src="screenshot.jpeg" alt="App Screenshot" height="150rem">
+    <br />
+    <img src="screenshot.jpeg" alt="App Screenshot" height="350rem">
     <h4> Screenshot of the application </h4>
-
+</p>
 FlutterToDo is a versatile and user-friendly task management app built using the Flutter framework, compatible with both Android and iOS platforms.
 
 ---
