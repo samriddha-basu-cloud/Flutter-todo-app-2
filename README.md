@@ -1,16 +1,51 @@
-# todo_app_2
+# FlutterToDo
 
-A new Flutter project.
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-Flutter-blue?logo=flutter" alt="Framework: Flutter">
+  <img src="https://img.shields.io/badge/OS-Android%20%7C%20iOS-green" alt="OS: Android | iOS">
+</p>
+
+![App Screenshot](screenshot.jpeg)
+
+FlutterToDo is a versatile and user-friendly task management app built using the Flutter framework, compatible with both Android and iOS platforms.
+
+---
+
+## Features
+- ✅ **Effortless Task Management**: Organize your tasks seamlessly with a simple and intuitive interface.
+- ✅ **Cross-Platform**: Works flawlessly on Android and iOS devices.
+- ✅ **Sleek Design**: A modern and elegant design that makes task management a breeze.
+- ✅ **Productivity at Your Fingertips**: Stay productive on the go with FlutterToDo.
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the repository:**
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+        https://github.com/samriddha-basu-cloud/Flutter-todo-app-2.git
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Navigate to the project directory:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+        cd Flutter-todo-app-2
+   ```
+
+3. **Run the app:**
+
+   ```bash
+        flutter run
+   ```
+---
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to help improve FlutterToDo.
+
+---
+
+Happy task management with FlutterToDo! 🚀
